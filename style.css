@@ -27,14 +27,14 @@ section {
 
 .inicio-fundo {
     /* aula 3 */
-    background-image: url('https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSRqaZtOxh97vMVhp7DFDM4LzAJLuOu9GL2siGxwNvyN1jNa0a2Pf_SBkbqOCVVcGmJrNqhFsHNpGkNxk8ZteAJAQ');
+    background-image: url('Imagens/images.jpeg');
     /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
-    border-radius: 80px;
-    width: 20%;
-    height: 800px;
-    padding: 40px;
+    border-radius: 100px;
+    width: 50%;
+    height: 120px;
+    padding: 10px;
     margin: 0 auto;
 }
 
@@ -42,8 +42,8 @@ section {
 .img-inicio {
     position: absolute;
     right: 0;
-    top: 18rem;
-    width: 45rem;
+    top: 25rem;
+    width: 85rem;
     height: auto;
 }
 
